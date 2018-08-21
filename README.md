@@ -1,2 +1,2 @@
 # API-Model
-A Sample API model for testing with Postman and similar apps.
+A Sample API model to run Postman and similar apps against.
